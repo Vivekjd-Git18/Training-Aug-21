@@ -18,48 +18,35 @@ namespace weekday
 		{
 			Console.WriteLine("Hello World!");
 
-
-
-			int num = 0;
-			Console.WriteLine("enter weekday");
-			num = Console.Read();
-
-
-			if (num <6 )
-			{
-				Console.WriteLine("you've entered wrong day");
-			     if (num == 0)
-				{
-					Console.WriteLine("sunday");
-				}
-				else if (num == 1)
-				{
-					Console.WriteLine("monday");
-				}
-				else if (num == 2)
-				{
-					Console.WriteLine("tuesday");
-				}
-				else if (num == 3)
-				{
-					Console.WriteLine("wednesday");
-				}
-				else if (num == 4)
-				{
-					Console.WriteLine("thirsday");
-				}
-				else if (num == 5)
-				{
-					Console.WriteLine("friday");
-				}
-				else if (num == 6)
-				{
-					Console.WriteLine("saturday");
-				}
-			}
 			
-			else { 
-			}
-		}
+// 			int num = 0;
+// 			Console.WriteLine("enter weekday");
+// 			num = Console.Read();
+
+	                int myNum1 = (int)weekday.sunday;
+					Console.WriteLine("sunday is"+myNum1);
+	                int myNum2 = (int)weekday.monday;
+					Console.WriteLine("monday is"+myNum2);
+					int myNum3 = (int)weekday.tuesday;
+					Console.WriteLine("tuesday is"+myNum3);
+					
+					int myNum4 = (int)weekday.wednesday;
+					Console.WriteLine("wednesday is"+myNum4);
+					
+					
+					int myNum5 = (int)weekday.thirsday;
+					Console.WriteLine("thirsday is"+myNum5);
+					
+					int myNum6 = (int)weekday.friday;
+					Console.WriteLine("friday is"+myNum6);
+					
+					
+					int myNum7 = (int)weekday.saturday;
+					Console.WriteLine("saturday is"+myNum7);
+
+
+
+		
+}
 	}
 }

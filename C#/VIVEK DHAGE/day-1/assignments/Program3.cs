@@ -6,7 +6,7 @@ namespace vowels
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			Console.WriteLine("Hello there..!");
 
 			string str;
 			int i, len, vowel;

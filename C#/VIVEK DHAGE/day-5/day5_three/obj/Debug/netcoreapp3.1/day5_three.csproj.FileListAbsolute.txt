@@ -1,0 +1,14 @@
+C:\Users\om\source\repos\day5_three\bin\Debug\netcoreapp3.1\day5_three.exe
+C:\Users\om\source\repos\day5_three\bin\Debug\netcoreapp3.1\day5_three.deps.json
+C:\Users\om\source\repos\day5_three\bin\Debug\netcoreapp3.1\day5_three.runtimeconfig.json
+C:\Users\om\source\repos\day5_three\bin\Debug\netcoreapp3.1\day5_three.runtimeconfig.dev.json
+C:\Users\om\source\repos\day5_three\bin\Debug\netcoreapp3.1\day5_three.dll
+C:\Users\om\source\repos\day5_three\bin\Debug\netcoreapp3.1\day5_three.pdb
+C:\Users\om\source\repos\day5_three\obj\Debug\netcoreapp3.1\day5_three.csproj.AssemblyReference.cache
+C:\Users\om\source\repos\day5_three\obj\Debug\netcoreapp3.1\day5_three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\om\source\repos\day5_three\obj\Debug\netcoreapp3.1\day5_three.AssemblyInfoInputs.cache
+C:\Users\om\source\repos\day5_three\obj\Debug\netcoreapp3.1\day5_three.AssemblyInfo.cs
+C:\Users\om\source\repos\day5_three\obj\Debug\netcoreapp3.1\day5_three.csproj.CoreCompileInputs.cache
+C:\Users\om\source\repos\day5_three\obj\Debug\netcoreapp3.1\day5_three.dll
+C:\Users\om\source\repos\day5_three\obj\Debug\netcoreapp3.1\day5_three.pdb
+C:\Users\om\source\repos\day5_three\obj\Debug\netcoreapp3.1\day5_three.genruntimeconfig.cache

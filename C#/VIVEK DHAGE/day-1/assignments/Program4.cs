@@ -44,9 +44,6 @@ namespace weekday
 					int myNum7 = (int)weekday.saturday;
 					Console.WriteLine("saturday is"+myNum7);
 
-
-
-		
-}
+		}
 	}
 }

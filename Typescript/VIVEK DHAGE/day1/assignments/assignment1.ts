@@ -7,7 +7,7 @@ employee from the Array. Create one more array emp and join the value with above
 // //: { emp_id: number, firstname: string,lastname: string ,address:string,salary:number}[] 
 // : { emp_id: number, firstname: string,lastname: string ,address:string,salary:number}[] 
  let Employee1= [
-    { emp_id: 0, firstname: "Saideep", lastname: "patel" ,address:"001,ahmedabad,guajarat",salary:5000},
+    { emp_id: 0, firstname: "Saideep", lastname: "patel" ,address:"001 ahmedabad,guajarat",salary:5000},
      { emp_id: 1, firstname: "nirav", lastname: "ravat" ,address:"002 surat gujarat",salary:4000},
      { emp_id: 2, firstname: "bharat", lastname: "patel" ,address:"003 baroda gujarat",salary:7000},
      { emp_id: 3, firstname: "gopal", lastname: "raj" ,address:"004 ranchi jharkhand",salary:4000},

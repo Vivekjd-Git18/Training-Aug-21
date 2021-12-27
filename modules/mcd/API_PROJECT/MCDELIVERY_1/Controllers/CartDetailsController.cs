@@ -10,6 +10,7 @@ using MCDELIVERY_1.interfaces;
 
 namespace MCDELIVERY_1.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class CartDetailsController : ControllerBase

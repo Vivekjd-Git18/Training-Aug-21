@@ -11,7 +11,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace MCDELIVERY_1.Controllers
 {
-
+    [Authorize(Roles = UserRoles.Admin)]
     [Route("api/[controller]")]
     [ApiController]
     public class AdminsController : ControllerBase

@@ -10,6 +10,7 @@ using MCDELIVERY_1.interfaces;
 
 namespace MCDELIVERY_1.Controllers
 {
+    [Authorize(Roles = UserRoles.Admin)]
     [Route("api/[controller]")]
     [ApiController]
     public class UserTablesController : ControllerBase
